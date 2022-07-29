@@ -1,0 +1,17 @@
+h1{
+    background-color: palevioletred;
+    margin:none;
+    font-family: cursive;
+    color: aliceblue;
+    padding: 1cm;
+}
+.fondo{
+    background-image: url();
+}
+#complemento{
+    font-family: cursive;
+    margin-left: 30%;
+}
+#resultado{
+    margin-left: 20%;
+}
